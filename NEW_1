@@ -4,5 +4,7 @@ int main()
 {
   cout<<"Hello, Github!"<<endl;
   cout<<"你好！"<<endl;
+  cout<<"branch有什么作用呢？\n";
+  cout<<"用来保存多个版本的代码got;分享给他人查看；最终可以合并"<<endl;
   return 0;
 }
